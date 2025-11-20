@@ -1,0 +1,15 @@
+text
+User john@email.com logged in
+Failed login for unknown user
+User alice@company.org changed password
+Error: invalid email format user@
+User bob@test.co.uk registered
+User john11@email.com logged in
+Failed login for unknown user
+User alice@company.org failed to changed password
+Error: invalid email format user@
+User bob@test.co.uk alredy registered
+How far it will go...
+@ Error @
+
+
