@@ -1,0 +1,5 @@
+max: 7
+kaspar: 6
+who: 4
+samiel: 4
+bullets: 4
